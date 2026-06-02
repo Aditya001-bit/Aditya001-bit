@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-* 🔭 Currently building **SAHYOG**
+* 🔭 Currently practicing **Data Structureand Algorithms**
 * 🌱 Learning **Java, DSA, Full Stack Development & Open Source**
 * 👯 Looking to collaborate on **Web Development Projects**
 * 🤖 Interested in **AI Products & Startups**
