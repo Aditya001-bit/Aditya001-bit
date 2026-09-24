@@ -1,16 +1,20 @@
 # Hi 👋, I'm Aditya Kasaudhan
 
-### 🚀 B.Tech CSE Student | Full-Stack Developer | Open Source Contributor
+### 🚀 B.Tech CSE Student | Software Engineer | Java | DSA | Full-Stack Developer
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-* 🔭 Currently practicing **Data Structureand Algorithms**
-* 🌱 Learning **Java, DSA, Full Stack Development & Open Source**
-* 👯 Looking to collaborate on **Web Development Projects**
-* 🤖 Interested in **AI Products & Startups**
-* 🚀 Dream: Build a **Space-Tech Company**
-* 💬 Ask me about **Java, HTML, CSS, Git, GitHub and Web Development**
-* My portfolio : https://adityakasaudhan.netlify.app
+* 🔭 Currently practicing **Data Structures and Algorithms**
+* 🌱 Learning **Java, DSA, Backend Development & Full-Stack Development**
+* 💻 Building applications using **React.js, Node.js, Express.js, FastAPI & REST APIs**
+* 🗄️ Working with **MongoDB, PostgreSQL & SQL**
+* 🤖 Interested in **AI-powered applications and developer tools**
+* 👯 Looking to collaborate on **Web Development, Open Source & AI Projects**
+* 🏆 **GSSoC 2026 Contributor**
+* 🧩 Solved **200+ DSA problems** across LeetCode and GeeksforGeeks
+* 🚀 Building projects like **Aiota, CodeAtlas & Sahyog Bharat**
+* 💬 Ask me about **Java, DSA, React, Node.js, FastAPI, Git and Web Development**
+* 🌐 My portfolio: **https://adityakasaudhan.netlify.app**
 * 📫 Reach me at: **[itisaditya00@gmail.com](mailto:itisaditya00@gmail.com)**
 
 ---
@@ -20,6 +24,10 @@
 <p align="left">
 <a href="https://github.com/Aditya001-bit" target="blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/aditya-kasaudhan-92676121b/" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://www.instagram.com/it_is_aditya11/" target="blank">
@@ -34,41 +42,53 @@
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,c,javascript" />
+<img src="https://skillicons.dev/icons?i=java,python,c,javascript" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 </p>
 
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
 </p>
 
-### Tools
+### Core CS & Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux" />
 </p>
+
+**DSA:** Problem Solving, Algorithm Design, Complexity Analysis, Java Collections Framework
+
+**Backend:** REST APIs, JWT, Authentication, Authorization
+
+**Core CS:** OOP, DBMS, Operating Systems, Computer Networks
+
+**Other:** Git, GitHub, Docker, Postman
 
 ---
 
 ## 🏆 Achievements
 
-* 🌟 Contributor at GSSoC
-* 🚀 Building SAHYOG Project
-* 💡 Exploring AI Startup Development
-* 🎯 Consistent Skill Development in Software Engineering
+* 🧩 Solved **200+ DSA problems** across LeetCode and GeeksforGeeks
+* 🔥 Earned the **100-Day Problem Solver** badge
+* 🌟 **GSSoC 2026 Contributor** — worked on 10+ open-source issues
+* 🚀 Successfully merged a pull request during GSSoC
+* 🛰️ Participated in the **ISRO Hackathon** with a satellite-based wildfire tracking solution
+* 📜 **Microsoft AI-900: Azure AI Fundamentals**
+* ☕ **Oracle Java Developer**
+* 🐍 **Infosys Springboard — OOP with Python**
 
 ---
 
@@ -86,16 +106,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya001-bit&layout=compact&theme=tokyonight" />
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Aditya001-bit&theme=tokyonight&row=1&column=7" />
-</p>
-
----
-
 ## 📈 Profile Views
 
 <p align="left">
@@ -112,4 +122,4 @@
 
 ### 🚀 Current Mission
 
-Building software, contributing to open source, mastering full-stack development, and preparing to launch impactful technology ventures.
+Mastering **Data Structures & Algorithms**, strengthening **backend and full-stack development**, contributing to **open source**, and building impactful software products with **Java, Python and modern web technologies**.
